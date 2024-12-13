@@ -1,0 +1,8 @@
+round,question,user_answer,correct_answer,points
+1,How long is the Great wall,Honey spoils after 2 years,How long is the Great wall,0
+1,Honey never spoils,Does honey ever spoils,Honey never spoils,3
+1,How long is the Great wall,How long is the Great wall,How long is the Great wall,3
+1,"The Great Wall is 21,196 kilometers long",How long is the Great wall,"The Great Wall is 21,196 kilometers long",3
+1,Does honey ever spoils,Honey never spoils,Honey never spoils,3
+1,How long is the Great wall,"The Great Wall is 21,196 kilometers long","The Great Wall is 21,196 kilometers long",3
+1,Does honey ever spoils,1,Honey never spoils,0
